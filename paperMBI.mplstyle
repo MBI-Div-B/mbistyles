@@ -1,0 +1,52 @@
+savefig.dpi : 600
+savefig.transparent : True
+savefig.bbox : tight
+figure.figsize : 8, 6
+
+font.size : 16
+font.family : sans-serif
+font.sans-serif : Fira Sans
+font.weight : light
+text.color : 333333
+
+axes.titlesize : 20
+axes.titleweight : light
+axes.labelsize : 18
+axes.labelweight : light
+axes.labelcolor : 333333
+axes.linewidth : 1
+axes.edgecolor : 333333
+lines.markersize : 6
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.color : 333333
+ytick.color : 333333
+figure.facecolor : w
+axes.grid 		: False
+
+lines.markeredgewidth: 5
+
+legend.frameon : True
+legend.fontsize : 20
+legend.facecolor : w
+legend.edgecolor : w
+legend.numpoints : 1
+legend.framealpha: 1
+
+xtick.major.pad : 5
+ytick.major.pad : 5
+xtick.major.size: 6
+ytick.major.size: 6
+xtick.minor.size: 4
+ytick.minor.size: 4
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 1
+ytick.minor.width: 1
+xtick.direction: in
+ytick.direction: in
+xtick.top : False
+ytick.right : False
+
+xtick.minor.visible: True
+ytick.minor.visible: True
