@@ -1,0 +1,17 @@
+font.size : 16
+text.color : 333333
+
+axes.titlesize : 20
+axes.titleweight : light
+axes.labelsize : 18
+axes.labelweight : light
+axes.labelcolor : 333333
+axes.edgecolor : 333333
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.color : 333333
+ytick.color : 333333
+
+legend.fontsize : 18
+legend.framealpha: 1

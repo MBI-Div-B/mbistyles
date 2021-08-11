@@ -1,0 +1,17 @@
+savefig.dpi : 150
+savefig.transparent : False
+
+font.size : 20
+text.color : 3c415a
+
+axes.titlesize : 24
+axes.labelsize : 22
+axes.labelcolor : 3c415a
+axes.edgecolor : 3c415a
+xtick.labelsize : 20
+ytick.labelsize : 20
+xtick.color : 3c415a
+ytick.color : 3c415a
+
+legend.fontsize : 20
+legend.framealpha: 0.7
