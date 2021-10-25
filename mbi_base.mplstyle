@@ -5,7 +5,18 @@ figure.figsize : 8, 6
 
 font.family : sans-serif
 font.sans-serif : Fira Sans
-font.weight : light
+font.weight : 300
+
+mathtext.fontset: custom
+mathtext.fallback: cm
+mathtext.fallback_to_cm: True
+mathtext.bf: Fira Sans:medium
+mathtext.cal: Fira Sans
+mathtext.default: it
+mathtext.it: Fira Sans:italic
+mathtext.rm: Fira Sans
+mathtext.sf: Fira Sans
+mathtext.tt: monospace
 
 axes.linewidth : 1
 lines.markersize : 6
