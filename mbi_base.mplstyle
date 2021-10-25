@@ -9,7 +9,6 @@ font.weight : 300
 
 mathtext.fontset: custom
 mathtext.fallback: cm
-mathtext.fallback_to_cm: True
 mathtext.bf: Fira Sans:medium
 mathtext.cal: Fira Sans
 mathtext.default: it
