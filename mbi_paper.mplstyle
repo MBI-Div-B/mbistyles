@@ -1,17 +1,17 @@
-font.size : 16
+font.size : 10
 text.color : 333333
 
-axes.titlesize : 20
-axes.titleweight : light
-axes.labelsize : 18
-axes.labelweight : light
+axes.titlesize : 11
+axes.titleweight : 400
+axes.labelsize : 10
+axes.labelweight : 300
 axes.labelcolor : 333333
 axes.edgecolor : 333333
 
-xtick.labelsize : 16
-ytick.labelsize : 16
+xtick.labelsize : 9
+ytick.labelsize : 9
 xtick.color : 333333
 ytick.color : 333333
 
-legend.fontsize : 18
+legend.fontsize : 10
 legend.framealpha: 1
