@@ -1,1 +1,14 @@
 **/.ipynb_checkpoints
+
+# Compiled python modules.
+*.pyc
+
+/MANIFEST
+/dist
+/build
+/setup.cfg
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+project/
+.pytest_cache/
