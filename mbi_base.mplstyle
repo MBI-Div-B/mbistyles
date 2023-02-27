@@ -3,10 +3,11 @@ savefig.transparent : True
 savefig.bbox : tight
 figure.figsize : 3.4, 2.5
 figure.dpi : 150
+svg.fonttype : none
 
 font.family : sans-serif
 font.sans-serif : Fira Sans
-font.weight : 300
+font.weight : normal
 
 mathtext.fontset: custom
 mathtext.fallback: cm

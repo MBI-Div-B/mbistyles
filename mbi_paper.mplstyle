@@ -2,9 +2,9 @@ font.size : 9
 text.color : 333333
 
 axes.titlesize : 10
-axes.titleweight : 400
+axes.titleweight : medium
 axes.labelsize : 9
-axes.labelweight : 300
+axes.labelweight : normal
 axes.labelcolor : 333333
 axes.edgecolor : 333333
 
