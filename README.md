@@ -15,11 +15,13 @@ with plt.style.context('mbistyles.base'):
     plt.show()
 ```
 
+More examples can be found in the `examples/examples.ipynb` notebook.
+
 ## Installation
 
 You can use `pip` to directly install from the repository: 
 
-    $ pip install git+https://github.com/dschick/mbistyles.git
+    $ pip install git+https://github.com/MBI-Div-B/mbistyles.git
 
 ## License
 
