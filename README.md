@@ -1,7 +1,7 @@
-# Welcome to pyEvalData
+# MBI Matplotlib styles
 
-This is a Python module to provide an MBI-like style to `matplotlib` inspired
-by the design if the MBI webpage: https://mbi-berlin.de
+This is a Python module to provide an MBI-like `matplotlib` plotting style
+inspired by the design of the MBI webpage: https://mbi-berlin.de
 
 A minimal code example would look like this:
 
