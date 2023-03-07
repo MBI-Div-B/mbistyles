@@ -13,7 +13,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     package_data={
-        'mbistyles': ['mbistyles/*.mplstyle']
+        'mbistyles': ['*.mplstyle']
     },
     python_requires='>=3.5',
     keywords='matplotlib style sheet mbi max born institute',
