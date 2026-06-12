@@ -52,6 +52,11 @@ ytick.color : 333333
 xtick.minor.visible: True
 ytick.minor.visible: True
 
+grid.color: DDDDDD
+grid.linestyle: -
+grid.linewidth: 0.5
+grid.alpha: 0.75
+
 # notebook defaults
 
 font.size : 10
