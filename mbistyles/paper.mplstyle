@@ -1,17 +1,6 @@
 font.size : 9
-text.color : 333333
-
-axes.titlesize : 10
-axes.titleweight : medium
 axes.labelsize : 9
-axes.labelweight : normal
-axes.labelcolor : 333333
-axes.edgecolor : 333333
-
+legend.fontsize : 9
 xtick.labelsize : 8
 ytick.labelsize : 8
-xtick.color : 333333
-ytick.color : 333333
-
-legend.fontsize : 9
-legend.framealpha: 1
+axes.titlesize : 10
