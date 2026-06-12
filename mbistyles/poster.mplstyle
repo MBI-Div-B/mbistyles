@@ -1,0 +1,29 @@
+font.size : 14
+axes.labelsize : 14
+legend.fontsize : 14
+xtick.labelsize : 12
+ytick.labelsize : 12
+axes.titlesize : 16
+
+font.weight : 400
+axes.titleweight: 500
+axes.labelweight: 400
+
+axes.linewidth : 1
+lines.markersize : 9
+lines.markeredgewidth : 1.0
+lines.linewidth : 1.5
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 1
+ytick.minor.width: 1
+
+mathtext.fontset: custom
+mathtext.fallback: cm
+mathtext.bf: Fira Sans:medium
+mathtext.cal: Fira Sans
+mathtext.default: it
+mathtext.it: Fira Sans:italic
+mathtext.rm: Fira Sans
+mathtext.sf: Fira Sans
+mathtext.tt: monospace
