@@ -1,0 +1,8 @@
+xtick.top : False
+xtick.labeltop: False
+xtick.bottom : False
+xtick.labelbottom: False
+ytick.left : False
+ytick.labelleft: False
+ytick.right : False
+ytick.labelright: False

@@ -1,12 +1,12 @@
-axes.prop_cycle : (cycler('color', ["2AB5DD", "D71045", "45BA47", "ED590C", "CF0EEE", "F2E029", "3672B2",  "7E5FCC"]) + cycler('alpha', [0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75]))
+axes.prop_cycle : (cycler('color', ["#2AB5DD", "#D71045", "#45BA47", "#ED590C", "#CF0EEE", "#F2E029", "#3672B2",  "#7E5FCC"]) + cycler('alpha', [0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75]))
 
-figure.facecolor : ffffff00
-axes.facecolor : ffffff00
+figure.facecolor : "#ffffff00"
+axes.facecolor : "#ffffff00"
 
-text.color : f2f2f2
-axes.labelcolor : f2f2f2
-axes.edgecolor : f2f2f2
-xtick.color : f2f2f2
-ytick.color : f2f2f2
+text.color : "#f2f2f2"
+axes.labelcolor : "#f2f2f2"
+axes.edgecolor : "#f2f2f2"
+xtick.color : "#f2f2f2"
+ytick.color : "#f2f2f2"
 legend.frameon : False
 legend.framealpha: 0
