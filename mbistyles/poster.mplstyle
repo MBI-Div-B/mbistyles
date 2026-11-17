@@ -5,6 +5,7 @@ xtick.labelsize : 12
 ytick.labelsize : 12
 axes.titlesize : 16
 
+font.sans-serif : Fira Sans
 font.weight : 400
 axes.titleweight: 500
 axes.labelweight: 400
