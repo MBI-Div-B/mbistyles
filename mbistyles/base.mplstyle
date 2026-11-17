@@ -8,11 +8,14 @@ figure.dpi : 150
 svg.fonttype : none
 
 font.family : sans-serif
-font.sans-serif : Fira Sans
+font.sans-serif : Fira Sans Light, Fira Sans
 
-font.weight : 300
-axes.titleweight: 400
-axes.labelweight: 300
+# the light weight is selected by the family "Fira Sans Light" instead of
+# font.weight 300, which would also apply to the fallback fonts of mathtext
+# without a light weight and raise findfont warnings
+font.weight : normal
+axes.titleweight: normal
+axes.labelweight: normal
 
 axes.labelcolor : "#333333"
 axes.edgecolor : "#333333"
@@ -20,6 +23,11 @@ text.color : "#333333"
 
 mathtext.fontset: custom
 mathtext.fallback: cm
+mathtext.rm : Fira Sans Light
+mathtext.it : Fira Sans Light:italic
+mathtext.bf : Fira Sans:bold
+mathtext.bfit : Fira Sans:italic:bold
+mathtext.sf : Fira Sans Light
 
 axes.prop_cycle : (cycler('color', ["#3672B2", "#D71045", "#45BA47", "#ED590C", "#7E5FCC", "#F2E029", "#2AB5DD",  "#CF0EEE"]) + cycler('alpha', [0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75]))
 axes.linewidth : 0.5
