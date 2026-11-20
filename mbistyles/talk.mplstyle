@@ -1,6 +1,6 @@
 font.size : 11
 axes.labelsize : 11
-legend.fontsize : 11
+legend.fontsize : 10
 xtick.labelsize : 10
 ytick.labelsize : 10
 axes.titlesize : 12
